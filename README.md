@@ -16,6 +16,12 @@ Gen AI poc with langchain, openai api and serp api
   export OPENAI_API_KEY=<your-key>
   ```
 
+- If you want to run serpapi file then Set the SERPAPI_API_KEY in env variable
+
+  ```sh
+  export SERPAPI_API_KEY=<your-key>
+  ```
+
 - Run the file you want
   ```sh
   python poc/basic/main.py
