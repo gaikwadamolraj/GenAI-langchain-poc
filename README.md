@@ -18,5 +18,5 @@ Gen AI poc with langchain, openai api and serp api
 
 - Run the file you want
   ```sh
-  python poc/main.py
+  python poc/basic/main.py
   ```
